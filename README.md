@@ -19,8 +19,8 @@ I make stuff. Mainly work on back end, but interested in learning anything.
 - please... friends...
 
 📫 How to reach me ...
-- [LinkedIn](linkedin.com/in/royjkim)
-- [Spaghetti](spaghetti.com)
+- [LinkedIn](www.linkedin.com/in/royjkim)
+- [Spaghetti](www.spaghetti.com)
 
 <!---
 quantaviouskim/quantaviouskim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
